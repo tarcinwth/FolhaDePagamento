@@ -160,9 +160,7 @@ MIT License - Consulte [LICENSE](LICENSE) para detalhes
 
 ## 📞 Suporte
 
-[![GitHub Issues](https://img.shields.io/github/issues/seu-usuario/folha-pagamento-municipal)](https://github.com/seu-usuario/folha-pagamento-municipal/issues)
-[![Email](https://img.shields.io/badge/Email-suporte%40amargosa.ba.gov.br-blue)](mailto:suporte@amargosa.ba.gov.br)
+[![GitHub Issues](https://img.shields.io/github/issues/tarcinwth/FolhaDePagamento)](https://github.com/tarcinwth/FolhaDePagamento/issues)
+[![Email](https://img.shields.io/badge/Email-tarciio.spotify@gmail.com-blue)](mailto:tarciio.spotify@gmail.com)
 
-**Prefeitura Municipal de Amargosa/BA**  
-Secretaria de Finanças - Divisão de Folha de Pagamento
-```
+
